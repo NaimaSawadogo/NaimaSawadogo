@@ -1,6 +1,8 @@
 ### Hi there 👋
-Welcome to me page. 
+Welcome to me page
+
 Here is a bit about myself
+
 My passion lies at the intersection of social entrepreneurship, management consulting and data analytics. I believe big data can inform strategic decisions
 ![](https://github.com/NaimaSawadogo/NaimaSawadogo/blob/main/githubgif.gif)
 <!--
