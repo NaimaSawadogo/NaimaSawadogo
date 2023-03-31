@@ -9,6 +9,9 @@ Below you will see some of the projects that i have been working on 😄
 
 
 ![](https://github.com/NaimaSawadogo/NaimaSawadogo/blob/main/githubgif.gif)
+
+https://dribbble.com/shots/9022929-Data-science
+
 <!--
 **NaimaSawadogo/NaimaSawadogo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
